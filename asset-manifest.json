@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-jawellery/static/css/main.575e2a21.chunk.css",
+    "main.js": "/react-jawellery/static/js/main.c9783d52.chunk.js",
+    "main.js.map": "/react-jawellery/static/js/main.c9783d52.chunk.js.map",
+    "runtime-main.js": "/react-jawellery/static/js/runtime-main.45cfcfb3.js",
+    "runtime-main.js.map": "/react-jawellery/static/js/runtime-main.45cfcfb3.js.map",
+    "static/js/2.d9361fa1.chunk.js": "/react-jawellery/static/js/2.d9361fa1.chunk.js",
+    "static/js/2.d9361fa1.chunk.js.map": "/react-jawellery/static/js/2.d9361fa1.chunk.js.map",
+    "static/js/3.8ca54252.chunk.js": "/react-jawellery/static/js/3.8ca54252.chunk.js",
+    "static/js/3.8ca54252.chunk.js.map": "/react-jawellery/static/js/3.8ca54252.chunk.js.map",
+    "index.html": "/react-jawellery/index.html",
+    "static/css/main.575e2a21.chunk.css.map": "/react-jawellery/static/css/main.575e2a21.chunk.css.map",
+    "static/js/2.d9361fa1.chunk.js.LICENSE.txt": "/react-jawellery/static/js/2.d9361fa1.chunk.js.LICENSE.txt",
+    "static/media/mirouch.8e8a9c01.jpg": "/react-jawellery/static/media/mirouch.8e8a9c01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45cfcfb3.js",
+    "static/js/2.d9361fa1.chunk.js",
+    "static/css/main.575e2a21.chunk.css",
+    "static/js/main.c9783d52.chunk.js"
+  ]
+}
